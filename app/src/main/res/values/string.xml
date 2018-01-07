@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">big_work</string>
+    <string name="title">大概一个标题</string>
+    <string name="userID">用户名</string>
+    <string name="password">密码</string>
+    <string name="recheck">确认密码</string>
+    <string name="login">登录</string>
+    <string name="register">注册</string>
+    <string name="OK">确认</string>
+    <string name="cancel">取消</string>
+    <string name="game_name">blade</string>
+    <string name="game_create">创建房间</string>
+    <string name="game_join">加入房间</string>
+    <string name="home_name">房间名称</string>
+    <string name="home_pwd">房间密码</string>
+    <string name="pwd_true">有密码</string>
+    <string name="pwd_false">无密码</string>
+    <string name="game_start">游戏开始</string>
+    <string name="ready">准备</string>
+    <string name="refresh">刷新</string>
+    <string name="join">加入</string>
+    <string name="ask_pwd">请输入密码</string>
+</resources>
